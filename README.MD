@@ -121,10 +121,6 @@ Proyek ini adalah aplikasi web sederhana menggunakan Flask yang terhubung ke dat
 
 ---
 
-Apakah ada perubahan atau detail tambahan yang ingin Anda sertakan dalam file README ini?
-
----
-
 Request Body
 
 ```json
